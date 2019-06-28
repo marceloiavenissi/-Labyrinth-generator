@@ -5,7 +5,6 @@ Labyrinth generator, to create random maps of labyrinths without closed areas. I
 Basically he create a graph in the grid shape and assign random weights to each edge. From this creates a minimal tree with the algorithm of kruskal then transform this tree is an array of 0 and 1.
 
 <hr/>
-# Gerador de Labirintos
 Gerador de Labirintos, para criar mapas de labirintos aleatorios sem areas fechadas. no formato matrix de int , corredores representados por 0 e paredes 1.
 
 <h3>Conhecendo a ideia</h3>
