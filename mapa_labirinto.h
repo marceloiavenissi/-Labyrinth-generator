@@ -1,0 +1,4 @@
+#ifndef MAPA_LABIRINTO_H
+#define MAPA_LABIRINTO_H
+
+#endif // MAPA_LABIRINTO_H
