@@ -204,7 +204,7 @@ void printMatriz(int **mat,int l,int c){
 void printLabirinto(int **mat,int l,int c){
     for(int i = 0; i < l; i++){
         for(int j = 0; j < c; j++)
-            if(mat[i][j])cout<<"▓"; else cout<<"░";
+            if(mat[i][j])cout<<"▓"; else cout<<"·";
         cout<<endl;
     }
 }
